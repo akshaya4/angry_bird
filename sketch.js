@@ -80,6 +80,7 @@ function mouseDragged(){
 }
 
 
+
 function mouseReleased(){
     slingshot.fly();
     gameState = "launched";
