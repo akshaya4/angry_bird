@@ -11,7 +11,7 @@ var bird, slingshot;
 var gameState = "onSling";
 
 function preload() {
-    BGchange();
+      backgroundImg = loadImage("sprites/bg.png");
     
     
 }
